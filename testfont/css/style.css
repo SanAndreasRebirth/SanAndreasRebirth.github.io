@@ -1,0 +1,7 @@
+@font-face {font-family: "BankGothic"; src: url("//db.onlinewebfonts.com/t/6114cf46bdc8f52d6850779667c6f6a7.eot"); src: url("//db.onlinewebfonts.com/t/6114cf46bdc8f52d6850779667c6f6a7.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/6114cf46bdc8f52d6850779667c6f6a7.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/6114cf46bdc8f52d6850779667c6f6a7.woff") format("woff"), url("//db.onlinewebfonts.com/t/6114cf46bdc8f52d6850779667c6f6a7.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/6114cf46bdc8f52d6850779667c6f6a7.svg#BankGothic") format("svg"); } 
+.demo{
+    font-family:"BankGothic Bold" !important;
+    font-size:16px;font-style:normal;
+    -webkit-font-smoothing: antialiased;
+    -webkit-text-stroke-width: 0.2px;
+    -moz-osx-font-smoothing: grayscale;}
